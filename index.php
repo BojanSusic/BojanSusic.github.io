@@ -12,7 +12,7 @@ if (isset($_POST['Password'])) {
     $Password = null;
 }
   
-var_dump($UserName . " Is And Password Is " . $Password);
+echo "TEST"
 echo $UserName . " Is And Password Is " . $Password
   
 ?>
